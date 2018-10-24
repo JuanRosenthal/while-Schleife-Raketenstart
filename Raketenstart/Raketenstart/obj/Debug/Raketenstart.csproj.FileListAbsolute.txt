@@ -1,0 +1,7 @@
+C:\Users\Juan-\source\repos\Raketenstart\Raketenstart\bin\Debug\Raketenstart.exe.config
+C:\Users\Juan-\source\repos\Raketenstart\Raketenstart\bin\Debug\Raketenstart.exe
+C:\Users\Juan-\source\repos\Raketenstart\Raketenstart\bin\Debug\Raketenstart.pdb
+C:\Users\Juan-\source\repos\Raketenstart\Raketenstart\obj\Debug\Raketenstart.csprojAssemblyReference.cache
+C:\Users\Juan-\source\repos\Raketenstart\Raketenstart\obj\Debug\Raketenstart.csproj.CoreCompileInputs.cache
+C:\Users\Juan-\source\repos\Raketenstart\Raketenstart\obj\Debug\Raketenstart.exe
+C:\Users\Juan-\source\repos\Raketenstart\Raketenstart\obj\Debug\Raketenstart.pdb
