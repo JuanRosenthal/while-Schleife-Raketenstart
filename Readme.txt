@@ -1,1 +1,1 @@
-Copyright by Juan RosenthAL
+Copyright by Juan Rosenthal
